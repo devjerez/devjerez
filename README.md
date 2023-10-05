@@ -12,9 +12,16 @@ En los años 90, Justo Navas junto a Ana Rebollo empiezan un periodo de reformas
 
 ## Instalaciones
 **Ponemos a tu disposición una oferta de instalaciones para hacer tu estancia más completa:**
-* Piscina de verano👙
-* Restaurante🍴
-* Habitaciones🛌
-* Jardines🌼
-* Cafetería☕
-* Pet Friendly🐶
+| Servicio          | Descripción                                        |
+|-------------------|----------------------------------------------------|
+| Piscina de verano | piscina olimpica con trampolin y tobogan           |
+| Restaurante       | restaurante de 4 tenedores con menu del dia        |
+| Habitaciones      | habitaciones individuales, dobles y suites         |
+| Jardines          | amplios jardines para pasear, y hasta un laberinto |
+| Cafetería         | cafeteria 24/7, los 365 dias del año               |
+| Pet Friendly      | pequeño spa para nuestros perrunos...              |
+
+## Pagina web
+```html
+www.hotellasnavas.com
+```
