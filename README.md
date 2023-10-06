@@ -23,5 +23,5 @@ En los años 90, Justo Navas junto a Ana Rebollo empiezan un periodo de reformas
 
 ## Pagina web
 ```html
-www.hotellasnavas.com
+https://www.hotellasnavas.com
 ```
